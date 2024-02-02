@@ -56,4 +56,11 @@ button:hover {
   cursor: pointer;
 }
 
-
+h3{
+  padding: 10px;
+  background-color: #ff69b4; 
+  color: #000000; 
+  border: none;
+  border-radius: 500px;
+  font-size: 1em;
+}
